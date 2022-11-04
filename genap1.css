@@ -1,0 +1,17 @@
+body {
+    /* fallback for old browsers */
+    background: #000000;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom right, rgb(255, 255, 255), rgb(29, 29, 29));
+    }
+    
+    .card-registration .select-inputl[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }

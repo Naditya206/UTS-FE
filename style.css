@@ -1,0 +1,9 @@
+.carousel-item {
+    height: 400px;
+}
+
+body {
+    background-image: url('img/gbck.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
